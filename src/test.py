@@ -27,6 +27,9 @@ for j in range(70):
 test = {"apple": 4, "banana": 6}
 
 print(test)
-
 print(test["apple"])
 print(test["banana"])
+
+print(age/89)
+
+print(test)
