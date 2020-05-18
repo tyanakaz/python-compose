@@ -4,6 +4,6 @@ services:
   app:
     build:
       context: .
-    command: poetry new .
+    # command: poetry new .
     volumes:
       - ./src:/usr/src:rw
