@@ -19,4 +19,3 @@ docker-compose run app python3 test.py
 ```
 python3 test.py
 ```
-# quantopian-getting-started
