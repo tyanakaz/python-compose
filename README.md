@@ -1,4 +1,4 @@
-# ruby-compose
+# python-compose
 
 ## Build
 ```
