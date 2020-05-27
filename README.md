@@ -7,15 +7,15 @@ docker-compose build
 
 ## コンテナにログイン
 ```
-docker-compose run ruby bash
+docker-compose run app bash  
 ```
 
 ## 実行
 ```
-docker-compose run ruby ruby test.rb
+docker-compose run app python3 test.py
 ```
 
 ## 実行（ログイン配下）
 ```
-ruby test.rb
+python3 test.py
 ```
